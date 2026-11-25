@@ -8,6 +8,13 @@ A make.fun entry for the competition
 concrete, a child at the low table swinging their legs — and the smell of
 fresh rice becoming, years later, the fastest way home.
 
+## Design note
+
+The kitchen was chosen because smell is the sense that survives longest in
+memory, so the rice cooker's click and the fresh-rice smell carry the whole
+scene and earn the closing line. One sentence keeps the memory unbroken —
+a single breath, the way a childhood evening actually felt.
+
 ## Run
 
 ```sh
